@@ -8,7 +8,7 @@ function sidebarMenu(){
                with font-awesome or any other icon font library -->
           <li class="nav-header">OPERATIONAL MANAGEMENT</li>
           <li class="nav-item has-treeview">
-            <a href="#" class="nav-link">
+            <a id="sidebar-dashboard" href="#" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
                 Dashboard
@@ -27,7 +27,7 @@ function sidebarMenu(){
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../examples/login.html" class="nav-link">
+                <a href="/Any-Gelatto-ERP/pages/procurement/" class="nav-link">
                   <i class="far fa-table nav-icon"></i>
                   <p>View Entries</p>
                 </a>
